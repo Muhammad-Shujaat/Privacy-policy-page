@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer{
+    .h4{
+        @apply text-[1.325rem] font-[600] text-wrap
+    }
+    .p{
+        @apply font-light text-wrap
+    }
+    .div-size{
+        @apply my-3 p-4
+    }
+}
