@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 @layer{
-    .h4{
-        @apply text-[1.325rem] font-[600] text-wrap
-    }
     .p{
         @apply text-[0.9rem]  sm:text-[1.2rem] font-light text-wrap max-w-[110ch] mx-auto
     }
