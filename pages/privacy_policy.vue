@@ -1,14 +1,14 @@
 <template>
-    <div class="w-full max-w-[70.5rem] mx-auto p-5">
+    <div class="w-full max-w-[70rem] mx-auto py-5 sm:p-4">
 
-        <h1 class="text-[1.5rem]  font-bold  p-4">Privacy Policy of ABCAMI Asset</h1>
-        <p class="text-[1.5rem]  font-bold p-4">Last Updated- April 25, 2024</p>
+        <h1 class="text-[1.2rem] sm:text-[1.5rem]  font-bold  p-5">Privacy Policy of ABCAMI Asset</h1>
+        <p class="text-[1.2rem] sm:text-[1.5rem] font-bold p-5">Last Updated- April 25, 2024</p>
 
         <div class="div-size">
             <p class="p">Thank you for using ABCAMI Asset and Inventory Management System Mobile app.
                 ABCAMI Asset and Inventory Management System is a leading asset and inventory management system used for
                 management of assets and inventory in companies and organizations. It is owned and operated by ABCAMI
-                Systems. </p>
+                Systems.</p>
 
         </div>
         <div class="div-size">
@@ -36,7 +36,7 @@
                 you by posting the change in this Privacy Policy.</p>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap">Information we collected</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap">Information we collected</h4>
             <p class="p">Generally, to provide you with our Products and Services, we must collect and process
                 information about
                 you. When you sign up or create an account or use our App, we automatically collect the following type
@@ -51,7 +51,7 @@
             </ul>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap">How we use your personal data</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap">How we use your personal data</h4>
             <p class="p">We take care all of your data, so we decided that we only store, required details such as
                 location, phone
                 number, ID. 
@@ -64,7 +64,7 @@
             </p>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap ">Non-personal Data</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap ">Non-personal Data</h4>
             <p class="p">For purposes of this Privacy Policy, non-personal data means information that does not directly
                 identify
                 you. Additionally, non-personal data means aggregate and de-personalized information, which is data
@@ -72,7 +72,7 @@
             </p>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap">Device Information</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap">Device Information</h4>
             <p class="p">We collect information from and about the computers, phones, and other web-connected devices
                 you use
                 that integrate with our products, and we combine this information with different devices you use. For
@@ -80,7 +80,7 @@
             </p>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap">Cookies Policy</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap">Cookies Policy</h4>
             <p class="p">We may use cookies (a small text file placed on your device to identify your device and browser
                 when you
                 use our Products & Services). We may also use Web beacons (an electronic file placed on a website that
@@ -91,7 +91,7 @@
             </p>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap">User Agreements</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap">User Agreements</h4>
             <p class="p">This app, including without limitation all copyrights, patents, trademarks, trade secrets and
                 other
                 intellectual property rights are, and shall remain, the sole and exclusive property of the Company. For
@@ -113,7 +113,7 @@
             </p>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap">EU user consent policy</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap">EU user consent policy</h4>
             <p class="p">From Feb, 2024 if your agreement with Google incorporates this policy, or you otherwise use a
                 Google
                 product that incorporates this policy, you must ensure that certain disclosures are given to, and
@@ -123,7 +123,7 @@
             </p>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap">ADVERTISEMENTS</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap">ADVERTISEMENTS</h4>
             <p class="p">The app will on occasions also make available to its users/members information about other
                 websites,
                 apps, services, promotions, and contests. By acting on any such information provided by the App, you
@@ -133,7 +133,7 @@
             </p>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap">Copyright</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap">Copyright</h4>
             <p class="p">The copyright and other intellectual property rights in all material materials and content on
                 this App,
                 including but not limited to photographs, graphics, videos, and organization and layout of the App is
@@ -149,7 +149,7 @@
             </p>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap">Links to Other Sites</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap">Links to Other Sites</h4>
             <p class="p">This service may contain links to other sites. If you click on a third-party link, you will be
                 directed
                 to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you
@@ -158,7 +158,7 @@
             </p>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap">Children’s Privacy</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap">Children’s Privacy</h4>
             <p class="p">These services do not address anyone under the age of 13. We do not knowingly collect
                 personally
                 identifiable information from children under 13. In the case we discover that a child under 13 has
@@ -172,12 +172,12 @@
             </p>
         </div>
         <div class="div-size">
-            <h4 class="text-[1.325rem] font-[600] text-wrap">Contacting</h4>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap">Contacting</h4>
             <p class="p">For questions or comments or changing or deleting your personal information, please do not
                 hesitate to
                 Contact Us at
-                Write your email Id
             </p>
+            <h4 class="text-[1.1rem] sm:text-[1.325rem] font-[700] text-wrap"> Write your email Id</h4>
         </div>
 
 
