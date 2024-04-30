@@ -25,7 +25,7 @@
                 name="Number" type="tel" placeholder="Phone Number*" required>
 
             <div class="flex gap-5">
-                <label class="text-lg font-semibold">Delete Data:</label>
+                <label class="text-lg font-semibold">Delete User Account:</label>
                 <label for="yes" class="flex gap-2 items-center">
 
                     <input type="radio" v-bind:id="'yes'" name="conformation" value="aldksfj" required>
@@ -33,6 +33,18 @@
                 </label>
                 <label for="No" class="flex gap-2 items-center">
                     <input type="radio" v-bind:id="'No'" name="conformation" required>
+                    No
+                </label>
+            </div>
+            <div class="flex gap-5">
+                <label class="text-lg font-semibold">Delete Data Only:</label>
+                <label for="y" class="flex gap-2 items-center">
+
+                    <input type="radio" v-bind:id="'y'" name="conformation" value="aldksfj" required>
+                    Yes
+                </label>
+                <label for="N" class="flex gap-2 items-center">
+                    <input type="radio" v-bind:id="'N'" name="conformation" required>
                     No
                 </label>
             </div>
