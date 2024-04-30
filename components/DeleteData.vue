@@ -7,32 +7,32 @@
 
             <input
                 class="border-[#c1c1c1] border-[1px] h-[3rem] w-full md:w-[70%] lg:w-1/2 max-w-full px-[1.25rem] font-[300] text-[0.85] outline-[#c1c1c146]"
-                type="text" placeholder="Your Name*">
+                type="text" placeholder="Your Name*" required>
 
 
             <input
                 class="border-[#c1c1c1] border-[1px] h-[3rem] w-full md:w-[70%] lg:w-1/2 max-w-full px-[1.25rem] font-[300] text-[0.85] outline-[#c1c1c146]"
-                type="text" placeholder="Company Name">
+                type="text" placeholder="Company Name" required>
 
 
             <input
                 class="border-[#c1c1c1] border-[1px] h-[3rem] w-full md:w-[70%] lg:w-1/2 max-w-full px-[1.25rem] font-[300] text-[0.85] outline-[#c1c1c1]"
-                type="email" placeholder="Email Address*">
+                type="email" placeholder="Email Address*" required>
 
 
             <input
                 class="border-[#c1c1c1] border-[1px] h-[3rem] w-full md:w-[70%] lg:w-1/2 max-w-full px-[1.25rem] font-[300] text-[0.85] outline-[#c1c1c1]"
-                name="Number" type="tel" placeholder="Phone Number*">
+                name="Number" type="tel" placeholder="Phone Number*" required>
 
             <div class="flex gap-5">
                 <label class="text-lg font-semibold">Delete Data:</label>
                 <label for="yes" class="flex gap-2 items-center">
 
-                    <input type="radio" v-bind:id="'yes'" name="conformation" value="aldksfj">
+                    <input type="radio" v-bind:id="'yes'" name="conformation" value="aldksfj" required>
                     Yes
                 </label>
                 <label for="No" class="flex gap-2 items-center">
-                    <input type="radio" v-bind:id="'No'" name="conformation">
+                    <input type="radio" v-bind:id="'No'" name="conformation" required>
                     No
                 </label>
             </div>
