@@ -28,11 +28,11 @@
                 <label class="text-lg font-semibold">Delete User Account:</label>
                 <label for="yes" class="flex gap-2 items-center">
 
-                    <input type="radio" v-bind:id="'yes'" name="conformation" value="aldksfj" required>
+                    <input type="radio" v-bind:id="'yes'" name="user" value="aldksfj" required>
                     Yes
                 </label>
                 <label for="No" class="flex gap-2 items-center">
-                    <input type="radio" v-bind:id="'No'" name="conformation" required>
+                    <input type="radio" v-bind:id="'No'" name="user" required>
                     No
                 </label>
             </div>
@@ -40,11 +40,11 @@
                 <label class="text-lg font-semibold">Delete Data Only:</label>
                 <label for="y" class="flex gap-2 items-center">
 
-                    <input type="radio" v-bind:id="'y'" name="conformation" value="aldksfj" required>
+                    <input type="radio" v-bind:id="'y'" name="data" value="aldksfj" required>
                     Yes
                 </label>
                 <label for="N" class="flex gap-2 items-center">
-                    <input type="radio" v-bind:id="'N'" name="conformation" required>
+                    <input type="radio" v-bind:id="'N'" name="data" required>
                     No
                 </label>
             </div>
