@@ -56,7 +56,7 @@
 
             <div class="w-full md:w-[8%] lg:w-1/2 flex  items-center my-6"><input
                     class="border-[#c1c1c1] border-[1px] w-max px-8 bg-[#11117E] hover:bg-[#18012c] text-lg text-white h-14 leading-7 font-[400]"
-                    type="submit" value="SEND MESSAGE"></div>
+                    type="submit" value="SEND DELETE REQUEST"></div>
 
 
         </form>
